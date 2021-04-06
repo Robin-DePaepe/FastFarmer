@@ -1,0 +1,13 @@
+<?xml version="1.0" ?>
+<EndlessRunner>
+  <Player jumpForce="150.0" runForce="70.0" gravityScale ="3.0" collisionHeight="230.0" collisionWidth="120.0" speedBoost="0.2">
+    <SpriteSheet frameRate="15" numRows="3" numCols="4" numFrames="12" cellWidth="256" cellHeight="256"/>
+  </Player>
+  <Background>
+    <Layer name="Layer_05" scrollScale="0.0"/>
+    <Layer name="Layer_04" scrollScale="0.05"/>
+    <Layer name="Layer_03" scrollScale="0.2"/>
+    <Layer name="Layer_02" scrollScale="1"/>
+  </Background>
+  <Level seed="12345"/>
+</EndlessRunner>
